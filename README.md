@@ -17,4 +17,6 @@
     PMIT 6311 	Human Computer Interaction
     PMIT 6316 	Special Topics Related to ICT
     
+    PMIT 6000 	Research Project
+    
 ---
