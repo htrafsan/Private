@@ -18,5 +18,10 @@
     PMIT 6316 	Special Topics Related to ICT
     
     PMIT 6000 	Research Project
+     
+    PMIT 6003 	Data Structures & Algorithms
+    PMIT 6006 	Database Management System
+    PMIT 6007 	Web Technology
+    PMIT 6008 	Computer Networks & Data Communication   
     
 ---
