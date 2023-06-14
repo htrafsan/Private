@@ -73,22 +73,17 @@
     PMIT 6221 	Advanced Wireless Communication
     PMIT 6222 	Advanced Satellite Communication
 
-    PMIT 6202 	Multimedia Asset Management System
-    PMIT 6203 	Network Security
-    PMIT 6205 	Cellular Network Planning
-    PMIT 6206 	Fiber Optic Communication
-    PMIT 6207 	Radio Frequency Technology
-    PMIT 6208 	VLSI Layout Algorithms
-    PMIT 6209 	Modeling of Data Networks
-    PMIT 6210 	Telecommunication Network Management
-    PMIT 6211 	Digital Signal Processing
-    PMIT 6212 	Digital Image Processing
-    PMIT 6213 	Speech Recognition
-    PMIT 6214 	Information Coding
-    PMIT 6215 	Tele-traffic Engineering
-    PMIT 6216 	Telecommunication Traffic & Network Planning
-    PMIT 6218 	Advanced Networking & Internet Technology
-    PMIT 6219 	Advanced Digital Communication
-    PMIT 6220 	Advanced Optical communication
-    PMIT 6221 	Advanced Wireless Communication
-    PMIT 6222 	Advanced Satellite Communication
+    PMIT 6301 	Computational Biology
+    PMIT 6302 	Computational Geometry
+    PMIT 6303 	Advanced Neuroinformatics
+    PMIT 6304 	Health Informatics
+    PMIT 6305 	Bio-Informatics
+    PMIT 6306 	Advanced Data Mining for Biological Data
+    PMIT 6308 	Neuronal Information Discovery
+    PMIT 6309 	Modeling of Biological Systems
+    PMIT 6310 	Computer Vision
+    PMIT 6312 	Robotics and Automation
+    PMIT 6313 	Big Data Analysis
+    PMIT 6314 	Information Retrieval
+    PMIT 6315 	Natural Language Processing
+    
