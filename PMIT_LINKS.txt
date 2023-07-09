@@ -5,3 +5,4 @@ PMIT6111
 https://software-engineering-book.com/
 https://www.guru99.com/agile-testing-course.html
 https://www.tutorialspoint.com/agile_testing/index.htm
+https://www.javatpoint.com/
