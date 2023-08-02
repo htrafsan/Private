@@ -1,6 +1,9 @@
 PMIT6307
 https://www-users.cse.umn.edu/~kumar001/dmbook/index.php
 
+PMIT 6113
+https://www.tutlane.com/tutorial/android
+
 PMIT6111
 https://software-engineering-book.com/
 https://www.guru99.com/agile-testing-course.html
